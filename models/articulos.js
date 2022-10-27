@@ -20,7 +20,7 @@ Articulos.init({
 },
 {
     sequelize,
-    modelName: 'fabricantes',
+    modelName: 'articulos',
     freezeTableName: true,
     timestamps: true
 });
